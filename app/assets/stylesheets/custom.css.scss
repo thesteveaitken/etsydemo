@@ -48,3 +48,14 @@ body{
 		margin: 8px;
 	}
 }
+
+.jumbotron{
+	background-image: url('jumbotron.jpg');
+	background-position: right;
+	background-size: 100%;
+	h1,h2 {
+		font-family: gaurdian-egyptt, georgia, serif;
+		color: white;
+	};
+
+}
