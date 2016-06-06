@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+source 'https://rubygems.org'
 ruby "2.3.0"
 
 gem 'rails', '4.2.6'
@@ -14,6 +15,7 @@ gem "paperclip", "~> 5.0.0.beta1"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
 gem 'devise'
+gem 'stripe'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
